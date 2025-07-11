@@ -1,1 +1,1 @@
-# AI Assistant Impact On Student Succesful
+# AI Assistant Impact On Student Success
