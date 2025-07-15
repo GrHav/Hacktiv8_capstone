@@ -23,6 +23,7 @@ This project uses LLM by IBM (IBM-granite-3.3-8b-instruct). By using LLM, model 
 ## Analysis Process
 
 
+## Insight & Findings
 
 
 ## References
