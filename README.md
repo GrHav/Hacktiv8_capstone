@@ -1,5 +1,9 @@
 # AI Assistant Impact On Student Success
 ## Project Overview
+### Project Purposes
+&nbsp;&nbsp;&nbsp;&nbsp; This project is made to analysis and find any advantages of using AI for student daily life.  
+
+### Background of the study
 &nbsp;&nbsp;&nbsp;&nbsp; Artificial Intelligence (AI) has been evolving rapidly in recent years, enabling machines to perform wide range of human tasks from simple to highly complex task. One primary reason AI gaining traction because of its efficiency in handling repetitive and routine tasks without requiring extensive resources. These capabilities have positioned AI as a higly valuable solution across various industries including education. In the context of higher education, AI-powered assistant are becoming encreasingly significant in supporting students throughout their academic journey.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With the growing reliance on digital learning environments, students often encounter difficulties in understanding complex concepts. AI assistant such as ChatGPT, Google Bard, and IBM Granite are developed to address this gap by delivering immediate responses, simplifying difficult topics, and offering consistent feedback without the need for human tutors. This level of accessibility and responsiveness has the potential to significantly enhance students’ academic performance and overall learning experience (Luckin et al., 2016). IBM Granite, in particular, represents an open, enterprise-grade AI model that focuses on instruction-following capabilities, enabling structured, educationally relevant interactions for academic environments.
