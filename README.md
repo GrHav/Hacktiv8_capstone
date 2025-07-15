@@ -12,6 +12,17 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; By applying statistical methods to [this dataset](https://www.kaggle.com/datasets/ayeshasal89/ai-assistant-usage-in-student-life-synthetic), the project will move beyond general observations to pinpoint specific correlations and predictive relationships. The findings will provide educational institutions with a concrete basis for developing strategies that effectively integrate AI into their learning environments, fostering a culture of responsible use while maximizing student success.
 
+### Problem Statement
+The focus problems to be analysis are:
+1. Academic Correlation: Does the frequency of AI usage have a positive correlation with a student's GPA?
+2. Effective Usage Patterns: Which types of AI use (e.g., homework help, concept explanation) correlate most strongly with a higher effectiveness score and a better GPA?
+3. Predictive Factors: To what extent can a student's GPA be predicted by variables such as frequency of use, perceived effectiveness, major, and year of study?
+4. Tasks Correlation : Do all task can benefitted by using AI assitance? 
+
+### Approach 
+This project uses LLM by IBM (IBM-granite-3.3-8b-instruct). By using LLM, model expected to analyze all problem that had been stated above. Kaggle dataset is used for this project https://www.kaggle.com/datasets/ayeshasal89/ai-assistant-usage-in-student-life-synthetic. The analysis process of this project will follow systematic flow, from data analysis to visualization and conclusion.
+
+## Analysis Process
 
 
 
