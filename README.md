@@ -27,6 +27,4 @@ This project uses LLM by IBM (IBM-granite-3.3-8b-instruct). By using LLM, model 
 
 ## References
 - Luckin, R., Holmes, W., Griffiths, M., & Forcier, L. B. (2016). Intelligence Unleashed: An Argument for AI in Education. Pearson Education.
-- Woolf, B. P., Lane, H. C., Chaudhri, V., & Kolodner, J. (2013). AI Grand Challenges for Education. AI Magazine, 34(4), 66–84.
-- Holmes, W., Bialik, M., & Fadel, C. (2019). Artificial Intelligence in Education: Promises and Implications for Teaching and Learning. Center for Curriculum Redesign.
 - IBM (2024). IBM Granite Code & Instruction Models. Retrieved from https://huggingface.co/ibm-granite/granite-3.3-8b-instruct
