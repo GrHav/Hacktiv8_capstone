@@ -8,8 +8,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; With the growing reliance on digital learning environments, students often encounter difficulties in understanding complex concepts. AI assistant such as ChatGPT, Google Bard, and IBM Granite are developed to address this gap by delivering immediate responses, simplifying difficult topics, and offering consistent feedback without the need for human tutors. This level of accessibility and responsiveness has the potential to significantly enhance students’ academic performance and overall learning experience (Luckin et al., 2016). 
 
-&nbsp;&nbsp;&nbsp;&nbsp; To examine the impact of AI assistants on student success, this project establishes an evaluation framework designed to analyze their effectiveness in academic contexts. The study adopts a quantitative approach involving the collection and analysis of survey data, academic performance records, and interaction frequencies with AI platforms. Statistical methods such as linear regression and correlation are used to determine the relationship between AI usage and academic outcomes. Key indicators examined include improvements in material comprehension, study efficiency, and student achievement (Woolf et al., 2013; Holmes et al., 2019)
-
 &nbsp;&nbsp;&nbsp;&nbsp; By applying statistical methods to [this dataset](https://www.kaggle.com/datasets/ayeshasal89/ai-assistant-usage-in-student-life-synthetic), the project will move beyond general observations to pinpoint specific correlations and predictive relationships. The findings will provide educational institutions with a concrete basis for developing strategies that effectively integrate AI into their learning environments, fostering a culture of responsible use while maximizing student success.
 
 ### Problem Statement
