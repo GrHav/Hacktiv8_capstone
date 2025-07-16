@@ -13,7 +13,21 @@
 ### Data Understanding
 Dataset : AI Assistant Usage in Student Life - [Kaggle](https://www.kaggle.com/datasets/ayeshasal89/ai-assistant-usage-in-student-life-synthetic)
 
-There is <b>10000 rows</b> of data and <b>11 columns<b> in the dataset.
+There is <b>10000 rows</b> of data and <b>11 columns<b> in the dataset. 
+
+Dataset Structure is:
+| Column | Description |
+| SessionID | Unique session identifier |
+| StudentLevel | Demographic academic level : High School, Undergraduate, Graduate |
+| Discipline | Field of study : e.g., CS, psychology, etc. |
+| SessionDate | Date of the session |
+| SessionLengthMin | Length of AI interaction in minutes | 
+| Total Prompts | Number of prompts/messages used |
+| TaskType | Task being worked on (e.g., Coding, Writing, Research) |
+| AI_AssistanceLevel | 1–5 scale on how helpful the AI was perceived to be |
+| FinalOutcome | What the student achieved: Assignment Completed, Idea Drafted, etc. |
+| UsedAgain | Whether the student returned to use the assistant again|
+| SatisfactionRating | 1–5 rating of overall satisfaction with the session |
 
 ### Problem Statement
 The focus problems to be analysis are:
