@@ -1,7 +1,7 @@
 # AI Assistant Impact On Student Success
 ## Project Overview
 ### Project Purposes
-&nbsp;&nbsp;&nbsp;&nbsp; This project aims to conduct a quantitative analysis of a synthetic dataset on AI assistant usage among students especially on daily life. The goal is to measure the impact of AI on academic success and learning effectiveness, and to identify the most beneficial usage patterns. The findings will be used to formulate concrete recommendations for educational institutions and students to optimally integrate AI into their learning process. 
+&nbsp;&nbsp;&nbsp;&nbsp; This project aims to conduct analysis of [kaggle dataset](https://www.kaggle.com/datasets/ayeshasal89/ai-assistant-usage-in-student-life-synthetic) on AI assistant usage among students especially on daily life. The goal is to measure the impact of AI on academic success and learning effectiveness, and to identify the most beneficial usage patterns. The findings will be used to formulate concrete recommendations for educational institutions and students to optimally integrate AI into their learning process. 
 
 ### Background of the study
 &nbsp;&nbsp;&nbsp;&nbsp; Artificial Intelligence (AI) has been evolving rapidly in recent years, enabling machines to perform wide range of human tasks from simple to highly complex task. One primary reason AI gaining traction because of its efficiency in handling repetitive and routine tasks without requiring extensive resources. These capabilities have positioned AI as a higly valuable solution across various industries including education. In the context of higher education, AI-powered assistant are becoming encreasingly significant in supporting students throughout their academic journey.
@@ -9,6 +9,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp; With the growing reliance on digital learning environments, students often encounter difficulties in understanding complex concepts. AI assistant such as ChatGPT, Google Bard, and IBM Granite are developed to address this gap by delivering immediate responses, simplifying difficult topics, and offering consistent feedback without the need for human tutors. This level of accessibility and responsiveness has the potential to significantly enhance students’ academic performance and overall learning experience (Luckin et al., 2016). 
 
 &nbsp;&nbsp;&nbsp;&nbsp; By applying statistical methods to [this dataset](https://www.kaggle.com/datasets/ayeshasal89/ai-assistant-usage-in-student-life-synthetic), the project will move beyond general observations to pinpoint specific correlations and predictive relationships. The findings will provide educational institutions with a concrete basis for developing strategies that effectively integrate AI into their learning environments, fostering a culture of responsible use while maximizing student success.
+
+### Data Understanding
+Dataset : AI Assistant Usage in Student Life - [Kaggle](https://www.kaggle.com/datasets/ayeshasal89/ai-assistant-usage-in-student-life-synthetic)
+
+There is <b>10000 rows</b> of data and <b>11 columns<b> in the dataset.
 
 ### Problem Statement
 The focus problems to be analysis are:
