@@ -44,7 +44,7 @@ Dataset Structure is:
 ## Insight & Findings
 
 ## AI Support Explanation
-&nbsp;&nbsp;&nbsp;&nbsp; By using AI in this project, it help to finding and identifying problem statements that stated above efficiently without costing too much time. AI is used to answer all problem statement like analyze what are the impact, visualize findings and summarize key points that appeared on the dataset. 
+&nbsp;&nbsp;&nbsp;&nbsp; By using AI in this project, it help to finding and identifying problem statements that stated above efficiently without costing too much time. AI is used to answer all problem statement like analyze what are the impact, visualize findings and summarize key points that appeared on the dataset. Model find patterns in the data and extract those patterns into useful information. 
 
 ## References
 - Luckin, R., Holmes, W., Griffiths, M., & Forcier, L. B. (2016). Intelligence Unleashed: An Argument for AI in Education. Pearson Education.
