@@ -10,7 +10,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; By applying statistical methods to [this dataset](https://www.kaggle.com/datasets/ayeshasal89/ai-assistant-usage-in-student-life-synthetic), the project will move beyond general observations to pinpoint specific correlations and predictive relationships. The findings will provide educational institutions with a concrete basis for developing strategies that effectively integrate AI into their learning environments, fostering a culture of responsible use while maximizing student success.
 
-### Data Understanding
+### Dataset Data Understanding
 Dataset : AI Assistant Usage in Student Life - [Kaggle](https://www.kaggle.com/datasets/ayeshasal89/ai-assistant-usage-in-student-life-synthetic)
 
 There is <b>10000 rows</b> of data and <b>11 columns<b> in the dataset. 
@@ -39,7 +39,6 @@ The focus problems to be analysis are:
 ### Approach 
 This project uses LLM by IBM (IBM-granite-3.3-8b-instruct). By using LLM, model expected to analyze all problem that had been stated above. Kaggle dataset is used for this project https://www.kaggle.com/datasets/ayeshasal89/ai-assistant-usage-in-student-life-synthetic. The analysis process of this project will follow systematic flow, from data analysis to visualization and conclusion.
 
-## Analysis Process
 
 
 ## Insight & Findings
