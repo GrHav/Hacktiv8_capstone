@@ -31,18 +31,20 @@ Dataset Structure is:
 | SatisfactionRating | 1–5 rating of overall satisfaction with the session.                |
 
 ### Problem Statement
-The focus problems to be analysis are:
+&nbsp;&nbsp;&nbsp;&nbsp; The focus problems to be analysis are:
 1. Academic Correlation: To what extent does the frequency of AI assistant use influence a student's self-reported Effectiveness Score? Is there a direct relationship between how often a student engages with AI and their perception of its usefulness?
 2. Usage Patterns  and Demographic Impact : How do specific demographic factors (e.g., Major, Year of Study) or usage patterns correlate with a student's perceived Effectiveness Score? We will identify if certain student cohorts utilize and benefit from AI assistants more than others.
 3. Tasks-Specific Benefits : Do all academic tasks benefit equally from AI assistance? How does the specific Purpose of Use of an AI assistant (e.g., Homework help, Concept explanation) correlate with a student's final perceived Effectiveness Score? We will identify which tasks are most effectively supported by AI and provide insights into the expected outcomes for each. 
 
 ### Approach 
-This project uses LLM by IBM (IBM-granite-3.3-8b-instruct). By using LLM, model expected to analyze all problem that had been stated above. Kaggle dataset is used for this project https://www.kaggle.com/datasets/ayeshasal89/ai-assistant-usage-in-student-life-synthetic. The analysis process of this project will follow systematic flow, from data analysis to visualization and conclusion.
+&nbsp;&nbsp;&nbsp;&nbsp; This project uses LLM by IBM (IBM-granite-3.3-8b-instruct). By using LLM, model expected to analyze all problem that had been stated above. Kaggle dataset is used for this project https://www.kaggle.com/datasets/ayeshasal89/ai-assistant-usage-in-student-life-synthetic. The analysis process of this project will follow systematic flow, from data analysis to visualization and conclusion.
 
 
 
 ## Insight & Findings
 
+## AI Support Explanation
+&nbsp;&nbsp;&nbsp;&nbsp; This project used IBM Granite LLM. Version of LLM that used in this project is IBM Granite 3.3 8b instruct. Using AI in this project help to finding and identifying problem statements that stated above. AI can be used to analyze, visualize and finding the key points that appear on the dataset that could become the answer that can answers all problem statement. 
 
 ## References
 - Luckin, R., Holmes, W., Griffiths, M., & Forcier, L. B. (2016). Intelligence Unleashed: An Argument for AI in Education. Pearson Education.
