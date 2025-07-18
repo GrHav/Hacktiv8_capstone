@@ -23,7 +23,7 @@ Dataset Structure is:
 |      Discipline    | Field of study : e.g., CS, psychology, etc.                         |
 |     SessionDate    | Date of the session.                                                |
 |   SessionLengthMin | Length of AI interaction in minutes.                                | 
-|     Total Prompts  | Number of prompts/messages used.                                    |
+|     TotalPrompts  | Number of prompts/messages used.                                    |
 |       TaskType     | Task being worked on (e.g., Coding, Writing, Research).             |
 | AI_AssistanceLevel | 1–5 scale on how helpful the AI was perceived to be.                |
 |     FinalOutcome   | What the student achieved: Assignment Completed, Idea Drafted, etc. |
@@ -32,7 +32,7 @@ Dataset Structure is:
 
 ### Problem Statement
 &nbsp;&nbsp;&nbsp;&nbsp; The focus problems to be analysis are:
-1. Academic Correlation: To what extent does the frequency of AI assistant use influence a student's self-reported Effectiveness Score? Is there a direct relationship between how often a student engages with AI and their perception of its usefulness?
+1. Academic Correlation: To what extent does the frequency of AI assistant use (`SessionLengthMin` and `TotalPrompts` ) influence a student's  `FinalOutcome`? Is there a direct relationship between how often a student engages with AI and their perception of its usefulness?
 2. Usage Patterns  and Demographic Impact : How do specific demographic factors (e.g., Major, Year of Study) or usage patterns correlate with a student's perceived Effectiveness Score? We will identify if certain student cohorts utilize and benefit from AI assistants more than others.
 3. Tasks-Specific Benefits : Do all academic tasks benefit equally from AI assistance? How does the specific Purpose of Use of an AI assistant (e.g., Homework help, Concept explanation) correlate with a student's final perceived Effectiveness Score? We will identify which tasks are most effectively supported by AI and provide insights into the expected outcomes for each. 
 
@@ -44,7 +44,7 @@ Dataset Structure is:
 ## Insight & Findings
 
 ## AI Support Explanation
-&nbsp;&nbsp;&nbsp;&nbsp; This project used IBM Granite LLM. Version of LLM that used in this project is IBM Granite 3.3 8b instruct. Using AI in this project help to finding and identifying problem statements that stated above. AI can be used to analyze, visualize and finding the key points that appear on the dataset that could become the answer that can answers all problem statement. 
+&nbsp;&nbsp;&nbsp;&nbsp; By using AI in this project, it help to finding and identifying problem statements that stated above efficiently without costing too much time. AI is used to answer all problem statement like analyze what are the impact, visualize findings and summarize key points that appeared on the dataset. 
 
 ## References
 - Luckin, R., Holmes, W., Griffiths, M., & Forcier, L. B. (2016). Intelligence Unleashed: An Argument for AI in Education. Pearson Education.
